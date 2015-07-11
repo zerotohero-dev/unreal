@@ -1,0 +1,8 @@
+{
+    "urls": [
+        {"/api/bazinga": "api.json"},
+        {"/api/bimbo": "lorem.json"}
+    ],
+    "DATA_PATH": "/path/to/json/files",
+    "PORT": 8080
+}

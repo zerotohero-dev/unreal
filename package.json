@@ -1,0 +1,24 @@
+{
+  "name": "unreal",
+  "version": "0.0.2",
+  "description": "mocks stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v0lkan/unreal.git"
+  },
+  "keywords": [
+    "mock",
+    "api",
+    "json"
+  ],
+  "author": "Volkan Özçelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v0lkan/unreal/issues"
+  },
+  "homepage": "https://github.com/v0lkan/unreal"
+}
