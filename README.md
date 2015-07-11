@@ -12,7 +12,7 @@
 
 Serves contents of JSON files.
  
-Can be used to mock API response.
+Can be used to mock API responses.
 
 ## Why?
 
