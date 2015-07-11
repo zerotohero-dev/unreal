@@ -19,8 +19,6 @@ urls.forEach((tuple) => {
 let keys = Object.keys(cache);
 
 keys.forEach((key) => {
-    console.log(key);
-
     readFile(cache[key], {encoding: 'utf8'}, (err, data) => {
         if (err) {return;}
 
