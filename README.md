@@ -1,15 +1,25 @@
+                      .-') _  _  .-')     ('-.   ('-.
+                     ( OO ) )( \( -O )  _(  OO) ( OO ).-.
+     ,--. ,--.   ,--./ ,--,'  ,------. (,------./ . --. / ,--.
+     |  | |  |   |   \ |  |\  |   /`. ' |  .---'| \-.  \  |  |.-')
+     |  | | .-') |    \|  | ) |  /  | | |  |  .-'-'  |  | |  | OO )
+     |  |_|( OO )|  .     |/  |  |_.' |(|  '--.\| |_.'  | |  |`-' |
+     |  | | `-' /|  |\    |   |  .  '.' |  .--' |  .-.  |(|  '---.'
+    ('  '-'(_.-' |  | \   |   |  |\  \  |  `---.|  | |  | |      |
+      `-----'    `--'  `--'   `--' '--' `------'`--' `--' `------'
+
 # Unreal
 
 Serves contents of JSON files.
  
 Can be used to mock API response.
 
-# Why?
+## Why?
 
 I wanted to write some cool es6; and I needed a mock server that I could 
 customize further when needed.
 
-# Usage
+## Usage
 
 * Clone the project.
 * Put your mockup JSON file in a folder (F).
@@ -26,7 +36,7 @@ That’s all for it now.
 
 More features may come in the future.
 
-# Have Something to Say?
+## Have Something to Say?
 
 Note that this project is in its early beginning.
 
